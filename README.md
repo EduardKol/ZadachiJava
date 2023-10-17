@@ -1,1 +1,1 @@
-# ZadachiJava
+# ZadachiJava Stepik
